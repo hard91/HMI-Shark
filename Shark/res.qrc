@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/home.png</file>
+        <file>img/hvac.png</file>
+        <file>img/menu.png</file>
+        <file>img/music.png</file>
+        <file>img/radio.png</file>
+        <file>img/settings.png</file>
+        <file>img/linehorizontal.png</file>
+        <file>assets/full_apps.json</file>
+        <file>img/nav_backg.png</file>
+        <file>img/media_backg.jpg</file>
+        <file>img/phone_backg.jpg</file>
+        <file>img/media_controls/fast_forward.png</file>
+        <file>img/media_controls/fast_rewind.png</file>
+        <file>img/media_controls/goto_end.png</file>
+        <file>img/media_controls/goto_start.png</file>
+        <file>img/media_controls/pause.png</file>
+        <file>img/media_controls/play.png</file>
+        <file>assets/media_assets/ff.png</file>
+        <file>assets/media_assets/forward.png</file>
+        <file>assets/media_assets/fr.png</file>
+        <file>assets/media_assets/next.png</file>
+        <file>assets/media_assets/pause.png</file>
+        <file>assets/media_assets/play.png</file>
+        <file>assets/media_assets/previous.png</file>
+        <file>assets/media_assets/rewind.png</file>
+        <file>assets/media_assets/fav.png</file>
+        <file>assets/media_assets/unfav.png</file>
+        <file>assets/media_assets/browser.png</file>
+        <file>assets/media_assets/ff_disable.png</file>
+        <file>assets/media_assets/fr_disable.png</file>
+        <file>assets/media_assets/next_disable.png</file>
+        <file>assets/media_assets/play_disable.png</file>
+        <file>assets/media_assets/previous_disable.png</file>
+        <file>assets/media_assets/info.png</file>
+        <file>assets/media_assets/fav_disable.png</file>
+        <file>assets/settings_assets/about.png</file>
+        <file>assets/settings_assets/ambientlight.png</file>
+        <file>assets/settings_assets/camera.png</file>
+        <file>assets/settings_assets/car.png</file>
+        <file>assets/settings_assets/clock.png</file>
+        <file>assets/settings_assets/connectivity.png</file>
+        <file>assets/settings_assets/display.png</file>
+        <file>assets/settings_assets/general.png</file>
+        <file>assets/settings_assets/phone.png</file>
+        <file>assets/settings_assets/sound.png</file>
+        <file>assets/settings_assets/voice.png</file>
+        <file>assets/settings_assets/tailing.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

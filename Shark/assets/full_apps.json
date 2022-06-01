@@ -1,0 +1,62 @@
+[
+    {
+        "name": "home",
+        "longname": "Home",
+        "shortname": "home",
+        "icons": "/res/img/home.png",
+        "type": "system",
+        "brands": "Jeep;RAM",
+        "enabled": false,
+        "available" : true
+    },
+    {
+        "name": "menu",
+        "longname": "Menu",
+        "shortname": "menu",
+        "icons": "/res/img/menu.png",
+        "type": "system",
+        "brands": "Jeep;RAM",
+        "enabled": false,
+        "available" : true
+    },
+    {
+        "name": "music",
+        "longname": "Music",
+        "shortname": "music",
+        "icons": "/res/img/music.png",
+        "type": "system",
+        "brands": "Jeep;RAM",
+        "enabled": false,
+        "available" : true
+    },
+    {
+        "name": "radio",
+        "longname": "Radio",
+        "shortname": "radio",
+        "icons": "/res/img/radio.png",
+        "type": "system",
+        "brands": "Jeep;RAM",
+        "enabled": false,
+        "available" : true
+    },
+    {
+        "name": "hvac",
+        "longname": "HVAC",
+        "shortname": "hvac",
+        "icons": "/res/img/hvac.png",
+        "type": "system",
+        "brands": "Jeep;RAM",
+        "enabled": false,
+        "available" : true
+    },
+    {
+        "name": "settings",
+        "longname": "Settings",
+        "shortname": "settings",
+        "icons": "/res/img/settings.png",
+        "type": "system",
+        "brands": "Jeep;RAM",
+        "enabled": false,
+        "available" : true
+    }
+]

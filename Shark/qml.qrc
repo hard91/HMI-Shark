@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Mybutton.qml</file>
+        <file>Leftcurve.qml</file>
+        <file>Rightcurve.qml</file>
+        <file>Statusbar.qml</file>
+        <file>Apparea.qml</file>
+        <file>Appbar.qml</file>
+        <file>Notifications.qml</file>
+        <file>mainappdrawer.qml</file>
+        <file>mainapphone.qml</file>
+        <file>mainappsettings.qml</file>
+        <file>mainapphome.qml</file>
+        <file>mainappmusic.qml</file>
+        <file>mainappradio.qml</file>
+        <file>mainapphvac.qml</file>
+        <file>TileMedia.qml</file>
+        <file>TilePhone.qml</file>
+        <file>TileNavigation.qml</file>
+        <file>CompProgressBar.qml</file>
+        <file>CompMediaControls.qml</file>
+        <file>CompMetadata.qml</file>
+        <file>CompSettingsLeftList.qml</file>
+        <file>CompSettingsRightList.qml</file>
+        <file>settings_about.qml</file>
+        <file>settings_connectivity.qml</file>
+        <file>settings_general.qml</file>
+        <file>settings_display.qml</file>
+        <file>settings_clock.qml</file>
+        <file>settings_ambientlight.qml</file>
+        <file>settings_camera.qml</file>
+        <file>settings_car.qml</file>
+        <file>settings_voice.qml</file>
+        <file>settings_phone.qml</file>
+        <file>settings_sound.qml</file>
+        <file>CompListview.qml</file>
+        <file>StatusbarCenter.qml</file>
+        <file>StatusbarLeft.qml</file>
+        <file>StatusbarRight.qml</file>
+        <file>StackViewPage.qml</file>
+        <file>settings_sub_bluetooth.qml</file>
+        <file>settings_sub_gps.qml</file>
+        <file>settings_sub_wifi.qml</file>
+    </qresource>
+</RCC>
