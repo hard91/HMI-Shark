@@ -1,0 +1,24 @@
+Settings:
+Main page implementation is done for left and right panel
+Pending:
+Sub section implementation
+
+Home screen:
+Pending:
+Phone and Map on click handler
+
+Media:
+Only Base implementation is done
+Only one song can be played
+Progress bar handle touch events.
+Pending:
+Next/Previous button
+List/Folder support
+Volume Control
+Fav
+
+Tuner
+TBD
+
+HVAC
+TBD
