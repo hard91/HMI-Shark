@@ -11,8 +11,10 @@ Media Screen:
 
 Source Loaded:
 ![media song added](https://user-images.githubusercontent.com/9293623/171581537-9faf5901-3246-46c0-8707-32183992da40.png)
+
 Playing:
 ![song Play](https://user-images.githubusercontent.com/9293623/171581623-41ed747d-f422-4e57-81d2-e723330cffea.png)
+
 Metadata:
 ![metadata](https://user-images.githubusercontent.com/9293623/171581720-e85b776d-c92b-4b6a-b38c-3412ed50ff94.png)
 
