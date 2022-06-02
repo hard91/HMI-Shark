@@ -9,6 +9,14 @@ Media Screen:
 
 ![media](https://user-images.githubusercontent.com/9293623/171482027-fa3c8f0d-42da-48dc-a8f7-b7cd5a568826.png)
 
+Source Loaded:
+![media song added](https://user-images.githubusercontent.com/9293623/171581537-9faf5901-3246-46c0-8707-32183992da40.png)
+Playing:
+![song Play](https://user-images.githubusercontent.com/9293623/171581623-41ed747d-f422-4e57-81d2-e723330cffea.png)
+Metadata:
+![metadata](https://user-images.githubusercontent.com/9293623/171581720-e85b776d-c92b-4b6a-b38c-3412ed50ff94.png)
+
+
 Settings Screen:
 
 ![settings](https://user-images.githubusercontent.com/9293623/171482151-1883dd10-7be7-4b1c-9181-a972f5553413.PNG)
